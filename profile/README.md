@@ -1,18 +1,45 @@
-## Hi there 👋
-- Delft University of Technology
-- goals
-- members
-- workflow
-- license
-- repos and what is in there
-- 
-<!--
+# README
+## TUD-JB-OS organization
 
-**Here are some ideas to get you started:**
+The TUD-JB-OS (Delft University of Technology - Jupyter Book - Open Science) organization contains the repositories related to the TUD funded project *Connecting and boosting open science and open education through JB2*. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Goal
+In this project we aim to use JB2 as a platform for writing and publishing open scientific articles (including open data) and research related work (BEP & MEP thesis). The aim is to demonstrate a seamless, sustainable workflow. Students and researchers can collaboratively develop content that is interactive, version-controlled, and ready for web and print publication
+
+## Members
+### Core team
+- Freek Pols
+- Ilke Ercan
+- Bahareh Abdi
+- Saullo Castro
+- Rolf Hut
+- Gary Steele
+- Anton Akhmerov
+- Georgios Varnavides
+
+### Developers team
+- Luuk Fröling
+- Maciej Topyla
+
+## Repos
+### [latex template](https://github.com/TUD-JB-OS/latex_template)
+The LaTeX Bachelor and Master thesis template for export of the JB project.
+
+### [typst template](https://github.com/TUD-JB-OS/latex_template)
+The Typst Bachelor and Master thesis template for export of the JB project.
+
+### [book](https://github.com/TUD-JB-OS/book)
+The manual how to work with JB for TUD purposes.
+
+### [book_template](https://github.com/TUD-JB-OS/book_template)
+A basic JB template for educational textbooks for TUD.
+
+### [manuscript_template](https://github.com/TUD-JB-OS/manuscript_template)
+A template for publishing scientific work using JB.
+
+## Workflow
+Communication: issues for developers
+Make branch and create pull request
+
+## License
+
