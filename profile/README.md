@@ -25,7 +25,7 @@ In this project we aim to use JB2 as a platform for writing and publishing open 
 ### [latex template](https://github.com/TUD-JB-OS/latex_template)
 The LaTeX Bachelor and Master thesis template for export of the JB project.
 
-### [typst template](https://github.com/TUD-JB-OS/latex_template)
+### [typst template](https://github.com/TUD-JB-OS/typst_template)
 The Typst Bachelor and Master thesis template for export of the JB project.
 
 ### [book](https://github.com/TUD-JB-OS/book)
