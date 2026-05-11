@@ -29,13 +29,10 @@ The LaTeX Bachelor and Master thesis template for export of the JB project.
 The Typst Bachelor and Master thesis template for export of the JB project.
 
 ### [book](https://github.com/TUD-JB-OS/book)
-The manual how to work with JB for TUD purposes.
+The manual how to work with JB for TUD purposes, equivalent: https://jboss.tudelft.nl/manual
 
-### [book](https://github.com/TUD-JB-OS/starterkit)
-The barebone repository to start your own thesis.
-
-### [book_template](https://github.com/TUD-JB-OS/book_template)
-A basic JB template for educational textbooks for TUD.
+### [starterkit](https://github.com/TUD-JB-OS/starterkit)
+The barebone repository to start your own thesis, , equivalent: https://jboss.tudelft.nl/starterkit
 
 ## Workflow
 Communication: issues for developers
